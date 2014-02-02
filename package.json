@@ -1,0 +1,25 @@
+{
+  "name": "lazycon",
+  "version": "0.0.1",
+  "license" : "MIT",
+  "readmeFilename": "README.md",
+  "description": "chain together lazy constructors",
+
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/iambumblehead/lazycon.git"
+  },
+  "keywords": [
+    "constructor",
+    "prototype",
+    "lazy construction",
+    "extend"
+  ],
+  "dependencies" : {},
+  "devDependencies" : {
+      "jasmine-node" : ">=1.3.0"
+  },
+  "scripts" : {
+      "test" : "node node_modules/jasmine-node/bin/jasmine-node --verbose test/"
+  }
+}
