@@ -1,6 +1,6 @@
 {
   "name": "lazycon",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "license" : "MIT",
   "readmeFilename": "README.md",
   "description": "chain together lazy constructors",
